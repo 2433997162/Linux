@@ -58,7 +58,7 @@ $----------$共10个
 
 $eg:\ -rwxrw-r--$
 
-### $chmod \ <MODE>\ <FILE[s]>$
+### $chmod <MODE> <FILE[s]>$
 修改文件权限
 
 * #### 符号法
